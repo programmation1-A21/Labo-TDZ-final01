@@ -1,0 +1,9 @@
+/.vscode/
+
+/bin/
+
+/obj/
+
+*.csproj
+
+Program.cs
