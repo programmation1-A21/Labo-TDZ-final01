@@ -1,5 +1,5 @@
 # Labo-TDZ-Final01
-Solution possible à le 2ème partie du laboratoire évalué
+2ème partie du laboratoire évalué
 
 Les classes fournies proviennent de la solution possible à la première partie
 
